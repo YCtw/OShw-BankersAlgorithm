@@ -276,7 +276,4 @@ void printState(){
     }
     
     printf("\n");
-    
-    
-    
 }
