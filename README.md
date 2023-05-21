@@ -11,6 +11,7 @@ Iinvoke your program by passing the number of resources of each type on the comm
 1. Compile **Bankers.c** with ```gcc Bankers.c -lpthread -o Bankers.o```
 2. Run program with command line ```./Bankers.o numberOfResource1, numberOfResource2, numberOfResource3```
 
+
 - Output Screenshot:
 ![1](https://github.com/YCtw/OShw-BankersAlgorithm/assets/85775331/f5f1dd52-7b97-448d-a99f-126814d20421)
 ![2](https://github.com/YCtw/OShw-BankersAlgorithm/assets/85775331/3c3bc1bc-d900-4083-bdd0-150a13c1a28f)
